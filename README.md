@@ -7,6 +7,8 @@ Instructor: Dr. Shaun-inn Wu
 
 Client: Dr. Wesley Shultz
 
+Team Members: Vinny Vue, Oscar Castelanos, James Hanlon, Arianna Camino & Alex Garcia
+
 # Project Outline
 Cougar Student Technologies was tasked with designing a software solution to retrieve multiple images of streets from Google Street View to be processed by a litter detection algorithm.  
 # Dependencies
